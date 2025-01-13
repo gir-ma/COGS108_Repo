@@ -1,2 +1,2 @@
-# -COGS108_Repo
-This repo is for my class assignments(academic use only)
+# COGS108_Repo
+
